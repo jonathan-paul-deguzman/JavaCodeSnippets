@@ -5,13 +5,25 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Formatter;
+import java.util.StringJoiner;
 
 public class Main {
 
     public static void main(String[] args) throws IOException{
+        joiningSeuquenceOfValuesWithStringJoiner();
         //concatenationVsFormatting();
         //commonFormatSpecifiers();
-        writingFormatContentToAStream(22, 14, 12);
+        //writingFormatContentToAStream(22, 14, 12);
+        //stringClassSupportForRegularExpressions();
+    }
+
+    private static void joiningSeuquenceOfValuesWithStringJoiner() {
+        StringJoiner joiner = new StringJoiner(", ");
+        joiner.add("alpha");
+        joiner.add("beta");
+        joiner.add("gamma");
+        String resultingString = joiner.toString();
+        System.out.println(resultingString);
     }
 
     /*
@@ -65,6 +77,28 @@ public class Main {
         BufferedWriter writer = Files.newBufferedWriter(Paths.get("file1.txt"));
         try (Formatter formatter = new Formatter(writer)) {
             formatter.format("My siblings are %d, %d, %d years old" , chris, veronica, abby);
+        }
+    }
+
+    private static void stringClassSupportForRegularExpressions() {
+        String s1 = "apple, apple and orange please";
+
+        // Replace all occurrences of ple with ricot
+        String s2 = s1.replaceAll("ple", "ricot");
+        System.out.println(s2);
+
+        // The \\b makes it so that we will only change the ple that occurs before the word breakb
+        String s3 = s1.replaceAll("ple\\b", "ricot");
+        System.out.println(s3);
+
+        // Split the entire string by word breaks
+        String[] parts = s1.split("\\b");
+        for (String thePart : parts) {
+            // w is a word character and + has one or more occurrences
+            // Thus, if the String is composed of one or more occurrences of word characters, we have a match
+            if (thePart.matches("\\w+")) {
+                System.out.println(thePart);
+            }
         }
     }
 }
