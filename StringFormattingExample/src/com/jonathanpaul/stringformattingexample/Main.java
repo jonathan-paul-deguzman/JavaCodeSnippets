@@ -24,6 +24,16 @@ public class Main {
         joiner.add("gamma");
         String resultingString = joiner.toString();
         System.out.println(resultingString);
+
+        // We can also define starting and ending Strings for things that are more complex
+        // A good way to do this would be to write the String out manually and then figuring out
+        // what the delimiter would be
+        StringJoiner joiner2 = new StringJoiner("], [", "[", "]");
+        joiner2.add("alpha");
+        joiner2.add("beta");
+        joiner2.add("gamma");
+        String resultingString2 = joiner2.toString();
+        System.out.println(resultingString2);
     }
 
     /*
