@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24c2786e-6e98-439a-bb91-d903d010d80f" name="Default" comment="" />
+    <list default="true" id="6cbd4ac4-a2c9-4546-b141-d3bed4e25ff4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,57 +15,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductCatalogue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/ProductCatalogue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductFixtures.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/ProductFixtures.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Supplier.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Supplier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductCatalogueTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/test/ProductCatalogueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+            <state relative-caret-position="200">
+              <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,21 +24,84 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Product.java">
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/calculatorexample/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="11" column="97" lean-forward="false" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
+              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
-                <element signature="e#726#727#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
-                <element signature="e#883#884#0" expanded="true" />
-                <element signature="e#1222#1223#0" expanded="true" />
-                <element signature="e#1271#1272#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/calculatorexample/CalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriorityHelpDesk.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/PriorityHelpDesk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelpDesk.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/HelpDesk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="87" lean-forward="false" selection-start-line="22" selection-start-column="87" selection-end-line="22" selection-end-column="87" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enquiry.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Enquiry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <folding>
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,18 +124,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Customer.java" />
+        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Category.java" />
+        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Enquiry.java" />
+        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/HelpDesk.java" />
+        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/CategorizedHelpDesk.java" />
+        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/PriorityHelpDesk.java" />
+        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/calculatorexample/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Product.java" />
-        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/test/ProductCatalogueTest.java" />
-        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Supplier.java" />
-        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/ProductFixtures.java" />
-        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/ProductCatalogue.java" />
+        <option value="$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/calculatorexample/Calculator.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="147" />
-    <option name="y" value="23" />
+    <option name="y" value="24" />
     <option name="width" value="1133" />
     <option name="height" value="777" />
   </component>
@@ -140,46 +157,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CollectionsSetsExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CollectionsSetsExample" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionsQueuesExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CollectionsQueuesExample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CollectionsSetsExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CollectionsSetsExample" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionsQueuesExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CollectionsQueuesExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CollectionsSetsExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CollectionsSetsExample" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionsQueuesExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CollectionsQueuesExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CollectionsSetsExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CollectionsSetsExample" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionsQueuesExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CollectionsQueuesExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jonathanpaul" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CollectionsSetsExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CollectionsSetsExample" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionsQueuesExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CollectionsQueuesExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jonathanpaul" type="462c0819:PsiDirectoryNode" />
               <item name="javacodesnippets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CollectionsSetsExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CollectionsSetsExample" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionsQueuesExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CollectionsQueuesExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="jonathanpaul" type="462c0819:PsiDirectoryNode" />
@@ -187,22 +202,27 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CollectionsSetsExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="CollectionsQueuesExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CollectionsQueuesExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jonathanpaul" type="462c0819:PsiDirectoryNode" />
+              <item name="javacodesnippets" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="calculatorexample" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProductCatalogueTest.shouldOnlyHoldUniqueProducts">
+  <component name="RunManager" selected="JUnit.CalculatorTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.jonathanpaul.javacodesnippets.Main" />
@@ -228,23 +248,23 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CollectionsSetsExample" />
+      <module name="CollectionsQueuesExample" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
-    <configuration name="ProductCatalogueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.jonathanpaul.javacodesnippets.test.*" />
+          <option name="PATTERN" value="com.jonathanpaul.javacodesnippets.java.calculatorexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="CollectionsSetsExample" />
+      <module name="CollectionsQueuesExample" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jonathanpaul.javacodesnippets.test" />
-      <option name="MAIN_CLASS_NAME" value="com.jonathanpaul.javacodesnippets.test.ProductCatalogueTest" />
+      <option name="PACKAGE_NAME" value="com.jonathanpaul.javacodesnippets.java.calculatorexample" />
+      <option name="MAIN_CLASS_NAME" value="com.jonathanpaul.javacodesnippets.java.calculatorexample.CalculatorTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -258,19 +278,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ProductCatalogueTest.shouldFindHeavyVanProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorTest.shouldSupportAddition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.jonathanpaul.javacodesnippets.test.*" />
+          <option name="PATTERN" value="com.jonathanpaul.javacodesnippets.java.calculatorexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="CollectionsSetsExample" />
+      <module name="CollectionsQueuesExample" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jonathanpaul.javacodesnippets.test" />
-      <option name="MAIN_CLASS_NAME" value="com.jonathanpaul.javacodesnippets.test.ProductCatalogueTest" />
-      <option name="METHOD_NAME" value="shouldFindHeavyVanProducts" />
+      <option name="PACKAGE_NAME" value="com.jonathanpaul.javacodesnippets.java.calculatorexample" />
+      <option name="MAIN_CLASS_NAME" value="com.jonathanpaul.javacodesnippets.java.calculatorexample.CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldSupportAddition" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -283,19 +303,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ProductCatalogueTest.shouldFindLightVanProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorTest.shouldSupportComplexStatements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.jonathanpaul.javacodesnippets.test.*" />
+          <option name="PATTERN" value="com.jonathanpaul.javacodesnippets.java.calculatorexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="CollectionsSetsExample" />
+      <module name="CollectionsQueuesExample" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jonathanpaul.javacodesnippets.test" />
-      <option name="MAIN_CLASS_NAME" value="com.jonathanpaul.javacodesnippets.test.ProductCatalogueTest" />
-      <option name="METHOD_NAME" value="shouldFindLightVanProducts" />
+      <option name="PACKAGE_NAME" value="com.jonathanpaul.javacodesnippets.java.calculatorexample" />
+      <option name="MAIN_CLASS_NAME" value="com.jonathanpaul.javacodesnippets.java.calculatorexample.CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldSupportComplexStatements" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -308,19 +328,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ProductCatalogueTest.shouldOnlyHoldUniqueProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorTest.shouldSupportSubtraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.jonathanpaul.javacodesnippets.test.*" />
+          <option name="PATTERN" value="com.jonathanpaul.javacodesnippets.java.calculatorexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="CollectionsSetsExample" />
+      <module name="CollectionsQueuesExample" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jonathanpaul.javacodesnippets.test" />
-      <option name="MAIN_CLASS_NAME" value="com.jonathanpaul.javacodesnippets.test.ProductCatalogueTest" />
-      <option name="METHOD_NAME" value="shouldOnlyHoldUniqueProducts" />
+      <option name="PACKAGE_NAME" value="com.jonathanpaul.javacodesnippets.java.calculatorexample" />
+      <option name="MAIN_CLASS_NAME" value="com.jonathanpaul.javacodesnippets.java.calculatorexample.CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldSupportSubtraction" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -350,17 +370,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ProductCatalogueTest.shouldOnlyHoldUniqueProducts" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ProductCatalogueTest.shouldFindLightVanProducts" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ProductCatalogueTest.shouldFindHeavyVanProducts" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ProductCatalogueTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldSupportAddition" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldSupportSubtraction" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldSupportComplexStatements" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ProductCatalogueTest.shouldOnlyHoldUniqueProducts" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ProductCatalogueTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ProductCatalogueTest.shouldFindHeavyVanProducts" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ProductCatalogueTest.shouldFindLightVanProducts" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldSupportComplexStatements" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldSupportAddition" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTest.shouldSupportSubtraction" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -372,58 +393,56 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="24c2786e-6e98-439a-bb91-d903d010d80f" name="Default" comment="" />
-      <created>1525048034342</created>
+      <changelist id="6cbd4ac4-a2c9-4546-b141-d3bed4e25ff4" name="Default" comment="" />
+      <created>1525128441879</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1525048034342</updated>
+      <updated>1525128441879</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProductCatalogueTest - 2018.04.30 at 15h 21m 53s.xml">
-      <configuration name="ProductCatalogueTest" configurationId="JUnit" />
+    <history-entry file="CalculatorTest - 2018.05.01 at 15h 29m 53s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProductCatalogueTest - 2018.04.30 at 15h 22m 07s.xml">
-      <configuration name="ProductCatalogueTest" configurationId="JUnit" />
+    <history-entry file="CalculatorTest - 2018.05.01 at 15h 30m 39s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProductCatalogueTest - 2018.04.30 at 15h 22m 17s.xml">
-      <configuration name="ProductCatalogueTest" configurationId="JUnit" />
+    <history-entry file="CalculatorTest - 2018.05.01 at 15h 33m 32s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProductCatalogueTest - 2018.04.30 at 15h 23m 25s.xml">
-      <configuration name="ProductCatalogueTest" configurationId="JUnit" />
+    <history-entry file="CalculatorTest_shouldSupportAddition - 2018.05.01 at 15h 24m 29s.xml">
+      <configuration name="CalculatorTest.shouldSupportAddition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProductCatalogueTest_shouldOnlyHoldUniqueProducts - 2018.04.30 at 15h 23m 55s.xml">
-      <configuration name="ProductCatalogueTest.shouldOnlyHoldUniqueProducts" configurationId="JUnit" />
+    <history-entry file="CalculatorTest_shouldSupportAddition - 2018.05.01 at 15h 25m 04s.xml">
+      <configuration name="CalculatorTest.shouldSupportAddition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProductCatalogueTest_shouldOnlyHoldUniqueProducts - 2018.04.30 at 15h 24m 35s.xml">
-      <configuration name="ProductCatalogueTest.shouldOnlyHoldUniqueProducts" configurationId="JUnit" />
+    <history-entry file="CalculatorTest_shouldSupportAddition - 2018.05.01 at 15h 27m 41s.xml">
+      <configuration name="CalculatorTest.shouldSupportAddition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProductCatalogueTest_shouldOnlyHoldUniqueProducts - 2018.04.30 at 15h 25m 38s.xml">
-      <configuration name="ProductCatalogueTest.shouldOnlyHoldUniqueProducts" configurationId="JUnit" />
+    <history-entry file="CalculatorTest_shouldSupportComplexStatements - 2018.05.01 at 15h 27m 44s.xml">
+      <configuration name="CalculatorTest.shouldSupportComplexStatements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProductCatalogueTest_shouldOnlyHoldUniqueProducts - 2018.04.30 at 15h 35m 40s.xml">
-      <configuration name="ProductCatalogueTest.shouldOnlyHoldUniqueProducts" configurationId="JUnit" />
+    <history-entry file="CalculatorTest_shouldSupportSubtraction - 2018.05.01 at 15h 25m 09s.xml">
+      <configuration name="CalculatorTest.shouldSupportSubtraction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProductCatalogueTest_shouldOnlyHoldUniqueProducts - 2018.04.30 at 15h 35m 49s.xml">
-      <configuration name="ProductCatalogueTest.shouldOnlyHoldUniqueProducts" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductCatalogueTest_shouldOnlyHoldUniqueProducts - 2018.04.30 at 15h 36m 47s.xml">
-      <configuration name="ProductCatalogueTest.shouldOnlyHoldUniqueProducts" configurationId="JUnit" />
+    <history-entry file="CalculatorTest_shouldSupportSubtraction - 2018.05.01 at 15h 27m 38s.xml">
+      <configuration name="CalculatorTest.shouldSupportSubtraction" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="147" y="23" width="1133" height="777" extended-state="1" />
+    <frame x="147" y="24" width="1133" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -439,7 +458,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -448,9 +466,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -458,114 +474,122 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/HelpDesk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="87" lean-forward="false" selection-start-line="22" selection-start-column="87" selection-end-line="22" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/CategorizedHelpDesk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="45" column="61" lean-forward="false" selection-start-line="45" selection-start-column="61" selection-end-line="45" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Enquiry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/ProductCatalogue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/ProductFixtures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/test/ProductCatalogueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="11" column="97" lean-forward="false" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-            <element signature="e#1222#1223#0" expanded="true" />
-            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Enquiry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="97" lean-forward="false" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
+        <state relative-caret-position="210">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-            <element signature="e#1222#1223#0" expanded="true" />
-            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Supplier.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/PriorityHelpDesk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="76">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/test/ProductCatalogueTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/CategorizedHelpDesk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        <state relative-caret-position="60">
+          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/HelpDesk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="87" lean-forward="false" selection-start-line="22" selection-start-column="87" selection-end-line="22" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -574,28 +598,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/ProductCatalogue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        <state relative-caret-position="200">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/ProductFixtures.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/calculatorexample/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="30">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/calculatorexample/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -651,7 +678,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>CollectionsSetsExample</last-edited>
+          <last-edited>CollectionsQueuesExample</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
