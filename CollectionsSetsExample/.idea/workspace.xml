@@ -77,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Product.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="389">
-              <caret line="32" column="74" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="74" />
+              <caret line="32" column="74" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#669#670#0" expanded="true" />
@@ -585,7 +585,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/jonathanpaul/javacodesnippets/java/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
-          <caret line="32" column="74" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="74" />
+          <caret line="32" column="74" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#669#670#0" expanded="true" />
